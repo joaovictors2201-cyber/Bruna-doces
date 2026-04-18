@@ -43,7 +43,7 @@ body {
   border-bottom: 3px solid var(--azul);
   background:
     linear-gradient(to bottom, rgba(0,0,0,0.08) 0%, rgba(0,0,0,0.42) 100%),
-    url('https://github.com/joaovictors2201-cyber/Bruna-doces/blob/main/Imagem%20topo.png?raw=true') center / cover no-repeat;
+    url('https://raw.githubusercontent.com/joaovictors2201-cyber/Bruna-doces/main/Imagem%20topo.png') center / cover no-repeat;
   min-height: 200px;
   justify-content: flex-end;
 }
